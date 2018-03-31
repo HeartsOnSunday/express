@@ -1,0 +1,13 @@
+body {
+    background-image: url("lesson2express.png");
+    background-size:     cover;                
+    background-repeat:   no-repeat;
+    background-position: center center;  
+    color: yellow;
+}
+
+form, select, option {
+    text-align: center; 
+    font-family: "Impact", "Times", "Sans-serif";
+    font-size: 20px;
+}
