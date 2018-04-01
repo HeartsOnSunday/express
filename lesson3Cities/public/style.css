@@ -4,5 +4,10 @@ body {
     background-repeat:   no-repeat;
     background-position: center center;  
     color: yellow;
-    text-align: center;
+}
+
+form, select, option {
+    text-align: center; 
+    font-family: "Impact", "Times", "Sans-serif";
+    font-size: 20px;
 }
